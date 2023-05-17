@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Load Image</string>
+
+    <string name="load_image">Load Image</string>
+    <string name="image">image</string>
+</resources>
